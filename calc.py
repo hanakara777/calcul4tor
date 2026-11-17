@@ -62,7 +62,7 @@ st.title("Calculator App")
 st.text("Program recognises + - * / ^ √ π")
 
 #columns
-calc, buttons = st.columns([4, 3])
+calc, buttons = st.columns([6, 3])
 
 with calc:
 
