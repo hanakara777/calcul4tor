@@ -14,4 +14,5 @@ A simple calculator that recognises pi, exponent, root. It also remembers your r
 2. Recognising button Enter
 3. Automatically switching from button to textbox when using buttons
 
-Website : https://calculator2-13127777.streamlit.app/ 
+Website : [https://calculator2-13127777.streamlit.app/ 
+](https://calcul4tor-kwr3asjaebhemmeobdcjza.streamlit.app/)
